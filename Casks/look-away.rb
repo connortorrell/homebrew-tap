@@ -1,6 +1,6 @@
 cask "look-away" do
-  version "1.1.1"
-  sha256 "ccca9688afdfcd440d6a54133ddac1b41df6bc46d7e6043636b72e5a6b5cad28"
+  version "1.1.2"
+  sha256 "40bb728af483d4b49a3e1c2f7818d1db4f87eb588bfd6d593351ea571014dbc1"
 
   url "https://github.com/connortorrell/look-away/releases/download/v#{version}/LookAway.dmg"
   name "Look Away"
